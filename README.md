@@ -50,8 +50,8 @@ Setelah seluruh teks sumber telah diolah, hasil akhir enkripsi atau dekripsi dis
 
 ### Form Register
 
-![alt text](UTS_VigenereCipher/img/regis.png)
+![alt text](LoginVigenereCipher/img/regis.png)
 
 ### Form Login
 
-![alt text](UTS_VigenereCipher/img/login.png)
+![alt text](Login/VigenereCipher/img/login.png)
